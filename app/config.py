@@ -1,0 +1,5 @@
+DB_PATH = "./memory_db"
+EMBEDDING_MODEL = "all-MiniLM-L6-v2"
+COLLECTION_NAME = "assistant_memory"
+SIMILARITY_RESULTS = 3
+SIMILARITY_THRESHOLD = 0.65
